@@ -1,0 +1,7 @@
+
+.idea/
+.wing/
+*.Cache
+node_modules/
+dist/
+copy/
